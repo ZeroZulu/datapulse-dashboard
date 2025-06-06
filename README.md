@@ -1,7 +1,7 @@
 # DataPulse - Data Industry Job Trends Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://yourusername.github.io/datapulse-dashboard)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yourusername/datapulse-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ZeroZulu.github.io/datapulse-dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ZeroZulu/datapulse-dashboard)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A modern, interactive dashboard that visualizes real-time data industry job trends, salary insights, and market demands with beautiful glassmorphism design.
@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Dashboard](https://yourusername.github.io/datapulse-dashboard)**
+**[View Live Dashboard](https://ZeroZulu.github.io/datapulse-dashboard)**
 
 ## 📋 Project Description
 
