@@ -179,19 +179,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
-**Project Link** - [https://github.com/yourusername/datapulse-dashboard](https://github.com/yourusername/datapulse-dashboard)
-
-## 🙏 Acknowledgments
-
-- [Chart.js](https://www.chartjs.org/) - Beautiful JavaScript charting library
-- [Glassmorphism](https://glassmorphism.com/) - Design inspiration
-- [GitHub Pages](https://pages.github.com/) - Free hosting platform
-- Data industry professionals for insights and feedback
-
 ---
 
 ⭐ **Star this repository if you found it helpful!**
